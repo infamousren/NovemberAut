@@ -14,4 +14,6 @@ await expect(swagLabsText).toBeVisible();
 await expect(swagLabsText).toHaveText('Swag Labs');
 
 await page.screenshot({ path: 'screenshotko.png', fullPage: true });
+
+//path for when there is a folder foldername/ xx.png
 });
