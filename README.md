@@ -1,7 +1,8 @@
 **Playwright Basics**
+File to practice for push and pull
 
-This is another update for testing
+Dec 8 - to pull
+Dec 8 - to push
 
-Update: Dec 8 - to pull
+Dec 9 - pull
 
-Update: Dec 8 - to push
