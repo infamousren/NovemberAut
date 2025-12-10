@@ -1,10 +1,5 @@
 **Playwright Basics**
-File to practice for push and pull
+Automation Exercise using Playwright - Javascript
 
-Dec 8 - to pull
-Dec 8 - to push
+Demo Website: Saucedemo
 
----
-
-Dec 9 - pull
-Dec 9 - push
